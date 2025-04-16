@@ -1,0 +1,19 @@
+{
+  "name": "parkme",
+  "version": "1.0.0",
+  "description": "CLI tool to scaffold the ParkMe Java Servlet application",
+  "keywords": [
+    "cli",
+    "java",
+    "servlet",
+    "scaffold",
+    "tomcat"
+  ],
+  "license": "MIT",
+  "author": "Kavindu Nirmal Delpachithra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
