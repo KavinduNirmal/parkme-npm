@@ -1,0 +1,15 @@
+[
+  {
+    "carType": "car",
+    "licensePlate": "ABC1234",
+    "paymentDetails": {
+      "cardNumber": "1234 *******"
+    },
+    "username": "nirmal",
+    "email": "nirmal@email.com",
+    "userId": "U1",
+    "hashedPassword": "$2a$10$hvjviobiPmLFxhRX8iiMken.Um./CZQnCnFe5TKP7202TTcxFN5VG",
+    "userType": "user",
+    "bookings": []
+  }
+]

@@ -23,5 +23,8 @@
     "ora": "^8.2.0",
     "properties-reader": "^2.3.0",
     "simple-git": "^3.27.0"
+  },
+  "bin": {
+    "create-parkme": "./bin/index.js"
   }
 }

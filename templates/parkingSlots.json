@@ -1,0 +1,143 @@
+[
+  {
+    "pricePerHour": 10.0,
+    "maxDurationHours": 1,
+    "overStayCharge": 0.0,
+    "slotId": "S001",
+    "type": "insta",
+    "location": "LAX",
+    "locationName": "Los Angeles International Airport",
+    "isAvailable": true,
+    "bookedDates": [
+      "2023-10-01T14:00:00Z"
+    ]
+  },
+  {
+    "pricePerDay": 30.0,
+    "overstayCharge": 0.0,
+    "slotId": "S002",
+    "type": "long-term",
+    "location": "LAX",
+    "locationName": "Los Angeles International Airport",
+    "isAvailable": true,
+    "bookedDates": [
+      "2025-04-01",
+      "2025-04-02"
+    ]
+  },
+  {
+    "pricePerHour": 15.0,
+    "maxDurationHours": 2,
+    "overStayCharge": 0.0,
+    "slotId": "S003",
+    "type": "insta",
+    "location": "JFK",
+    "locationName": "John F. Kennedy International Airport",
+    "isAvailable": false,
+    "bookedDates": [
+      "2023-10-02T14:00:00Z"
+    ]
+  },
+  {
+    "pricePerDay": 25.0,
+    "overstayCharge": 0.0,
+    "slotId": "S004",
+    "type": "long-term",
+    "location": "JFK",
+    "isAvailable": true,
+    "bookedDates": []
+  },
+  {
+    "pricePerHour": 20.0,
+    "maxDurationHours": 3,
+    "overStayCharge": 0.0,
+    "slotId": "S005",
+    "type": "insta",
+    "location": "ORD",
+    "locationName": "O\u0027Hare International Airport",
+    "isAvailable": true,
+    "bookedDates": [
+      "2023-10-03T14:00:00Z"
+    ]
+  },
+  {
+    "pricePerDay": 35.0,
+    "overstayCharge": 0.0,
+    "slotId": "S006",
+    "type": "long-term",
+    "location": "ORD",
+    "locationName": "O\u0027Hare International Airport",
+    "isAvailable": false,
+    "bookedDates": [
+      "2023-10-04T14:00:00Z"
+    ]
+  },
+  {
+    "pricePerHour": 12.0,
+    "maxDurationHours": 1,
+    "overStayCharge": 0.0,
+    "slotId": "S007",
+    "type": "insta",
+    "location": "ATL",
+    "locationName": "Hartsfield-Jackson Atlanta International Airport",
+    "isAvailable": true,
+    "bookedDates": [
+      "2023-10-05T14:00:00Z"
+    ]
+  },
+  {
+    "pricePerDay": 28.0,
+    "overstayCharge": 0.0,
+    "slotId": "S008",
+    "type": "long-term",
+    "location": "ATL",
+    "isAvailable": true,
+    "bookedDates": []
+  },
+  {
+    "pricePerHour": 18.0,
+    "maxDurationHours": 2,
+    "overStayCharge": 0.0,
+    "slotId": "S009",
+    "type": "insta",
+    "location": "DFW",
+    "locationName": "Dallas/Fort Worth International Airport",
+    "isAvailable": false,
+    "bookedDates": [
+      "2023-10-06T14:00:00Z"
+    ]
+  },
+  {
+    "pricePerDay": 32.0,
+    "overstayCharge": 0.0,
+    "slotId": "S010",
+    "type": "long-term",
+    "location": "DFW",
+    "isAvailable": true,
+    "bookedDates": []
+  },
+  {
+    "pricePerHour": 20.0,
+    "maxDurationHours": 3,
+    "overStayCharge": 0.0,
+    "slotId": "S005",
+    "type": "insta",
+    "location": "ORD",
+    "locationName": "O\u0027Hare International Airport",
+    "isAvailable": true,
+    "bookedDates": [
+      "2023-10-03T14:00:00Z"
+    ]
+  },
+  {
+    "pricePerDay": 35.0,
+    "overstayCharge": 0.0,
+    "slotId": "S006",
+    "type": "long-term",
+    "location": "ORD",
+    "isAvailable": false,
+    "bookedDates": [
+      "2023-10-04T14:00:00Z"
+    ]
+  }
+]

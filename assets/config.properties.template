@@ -1,0 +1,5 @@
+# config.properties
+user.file.path=%%user.file.path%%
+booking.file.path=%%booking.file.path%%
+transaction.file.path=%%transaction.file.path%%
+slots.file.path=%%slots.file.path%%

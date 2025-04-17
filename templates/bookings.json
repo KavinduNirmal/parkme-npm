@@ -1,0 +1,19 @@
+[
+  {
+    "bookingId": "B001",
+    "userId": "U001",
+    "slotId": "S001",
+    "startDate": "2023-10-01T14:00:00Z",
+    "endDate": "2023-10-01T15:00:00Z",
+    "checkInTime": "2023-10-01T14:15:00Z",
+    "checkOutTime": null,
+    "isOccupied": true,
+    "isOverstayed": false,
+    "overstayStartTime": null,
+    "overstayDurationHours": 0,
+    "overstayCharge": 0.0,
+    "totalPrice": 10.0,
+    "promoCode": "INSTA10",
+    "status": "active"
+  }
+]
