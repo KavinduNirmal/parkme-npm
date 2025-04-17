@@ -26,5 +26,8 @@
   },
   "bin": {
     "create-parkme": "./bin/index.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
